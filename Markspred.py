@@ -15,9 +15,7 @@ This app predicts the **Marks** scored by the student on the basis of
 st.sidebar.markdown('''
             Simple Marks Prediction App using Linear Regression 
             \n Applied Stats Project \n
-            Team members - Ananya Singh \n 
-            Shreenidhi Batta \n 
-            Aryan Mankotia
+            By - Ananya Singh
     ''')
 
 #Function to input from user
